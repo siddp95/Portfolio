@@ -1,2 +1,10 @@
-# Portfolio
-Portfolio project highlights
+Siddarth Puliyanda Portfolio
+
+Welcome to my personal Github portfolio! As a Data Science enthusiast with a focus on sports and online gaming, I have developed a range of programming projects that demonstrate my skills and knowledge in this field.
+
+This portfolio contains three of my programming project highlights, showcasing my ability to collect, clean, analyze, and visualize data to extract insights and solve real-world problems.
+
+Projects:
+
+2023 TD Regression: in this project, I collected and analyzed data from the 2022 NFL season to calculate whether or not a player scored more or less touchdowns than expected, and stated how this info might be useful to us for the 2023 NFL season.
+- Link: https://github.com/siddp95/Fantasy-Football-2023/blob/main/2023%20TD%20Regression.ipynb
