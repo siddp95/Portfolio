@@ -8,3 +8,6 @@ Projects:
 
 2023 TD Regression: in this project, I collected and analyzed data from the 2022 NFL season to calculate whether or not a player scored more or less touchdowns than expected, and stated how this info might be useful to us for the 2023 NFL season.
 - Link: https://github.com/siddp95/Fantasy-Football-2023/blob/main/2023%20TD%20Regression.ipynb
+
+Blackjack Simulation: in this project, I created a Monte Carlo simulation to test the effectiveness of different Blackjack strategies. The strategies include what value to stay on, how many decks the table should have, and the Martingale betting system.
+- Link: https://github.com/siddp95/Projects/tree/main/Blackjack%20Simulation
