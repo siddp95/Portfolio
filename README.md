@@ -6,6 +6,9 @@ This portfolio contains three of my programming project highlights, showcasing m
 
 Projects:
 
+NBA MVL ML: in this project, I built a Machine Learning model that predicts who will win MVP in a given season and compares it to what the actual results is. There are 3 separate notebooks related to the research, which include scraping data from basketball-reference, cleaning up the data, and the finally building the model and analyzing the results.
+- Link: https://github.com/siddp95/NBA/tree/main/NBA%20MVP%20ML
+
 2023 TD Regression: in this project, I collected and analyzed data from the 2022 NFL season to calculate whether or not a player scored more or less touchdowns than expected, and stated how this info might be useful to us for the 2023 NFL season.
 - Link: https://github.com/siddp95/Fantasy-Football-2023/blob/main/2023%20TD%20Regression.ipynb
 
