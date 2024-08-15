@@ -12,7 +12,7 @@ Blackjack Simulation: I created a Monte Carlo simulation to test the effectivene
 NBA MVP ML: I built a Machine Learning model that predicts who will win MVP in a given season and compares it to what the actual results is. There are 3 separate notebooks related to the research, which include scraping data from basketball-reference, cleaning up the data, and the finally building the model and analyzing the results.
 - Link: https://github.com/siddp95/NBA/tree/main/NBA%20MVP%20ML
 
-2023 TD Regression: I collected and analyzed data from the 2022 NFL season to calculate whether or not a player scored more or less touchdowns than expected, and stated how this info might be useful to us for the 2023 NFL season. The results of the analysis is used in my fantasy football research and has led to great success in past years.
-- Link: https://github.com/siddp95/Fantasy-Football-2023/blob/main/2023%20TD%20Regression.ipynb
+2024 TD Regression: I collected and analyzed data from the 2023 NFL season to calculate whether or not a player scored more or less touchdowns than expected, and stated how this info might be useful to us for the 2024 NFL season. The results of the analysis is used in my fantasy football research and has led to great success in past years.
+- Link: https://github.com/siddp95/Fantasy-Football-2024/blob/main/2024%20TD%20Regression.ipynb
 
 
