@@ -1,9 +1,8 @@
-Siddarth Puliyanda Portfolio
+# Siddarth Puliyanda Portfolio
 
-Welcome to my personal Github portfolio! As a Data Science enthusiast with a focus on sports and online gaming, I have developed a range of programming projects that demonstrate my skills, knowledge, and passion in this field. 
+Welcome to my personal Github portfolio! 
 
-This portfolio contains three of my programming project highlights, showcasing my ability to collect, clean, analyze, and visualize data to extract insights and solve real-world problems.
-
+As a Big Data professional, I leverage programming and analytics tools to transform raw data into actionable insights. This repository highlights my ability to tackle real-world problems through data collection, cleaning, analysis, and visualization. Each project demonstrates my technical skills, analytical thinking, and passion for extracting value from data—whether optimizing processes, uncovering trends, or driving decision-making. Feel free to explore my work to see how I can contribute to your team.  
 Projects:
 
 Blackjack Simulation: I created a Monte Carlo simulation to test the effectiveness of different Blackjack strategies. The strategies include what value to stay on, how many decks the table should have, and the Martingale betting system. An extensive write up is included that explains the mathematics and theory behind the study.
